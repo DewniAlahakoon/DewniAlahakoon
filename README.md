@@ -22,11 +22,11 @@
 <ul>
   <li style="line-height: 3.0">
     <img src="https://img.icons8.com/?size=50&id=l0UsZRTvcGel&format=png&color=000000" alt="Tech Stack" width="20" style="vertical-align: bottom; margin-right: 5px;"/>
-    <strong>Languages:</strong> Core Java, SQL
+    <strong>Languages:</strong> Java, SQL
   </li>
   <li>
     <img src="https://img.icons8.com/?size=50&id=BCLFIDDYKOnA&format=png&color=000000" alt="Tech Stack" width="20" style="vertical-align: bottom; margin-right: 5px;"/>
-    <strong>Frameworks:</strong> BDD, Data-Driven, TestNG
+    <strong>Frameworks:</strong> Behavior-Driven Development(BDD), Data-Driven Testing(DDT), TestNG
   </li>
   <li>
     <img src="https://img.icons8.com/?size=50&id=Vh44ppGKSLoR&format=png&color=000000" alt="Tech Stack" width="20" style="vertical-align: bottom; margin-right: 5px;"/>
