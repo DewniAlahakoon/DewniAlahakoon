@@ -26,7 +26,7 @@
   </li>
   <li>
     <img src="https://img.icons8.com/?size=50&id=BCLFIDDYKOnA&format=png&color=000000" alt="Tech Stack" width="20" style="vertical-align: bottom; margin-right: 5px;"/>
-    <strong>Frameworks:</strong> Behavior-Driven Development(BDD), Data-Driven Testing(DDT), TestNG
+    <strong>Frameworks:</strong> Behavior-Driven Development(BDD), Data-Driven Testing(DDT), TestNG, ExtentReports
   </li>
   <li>
     <img src="https://img.icons8.com/?size=50&id=Vh44ppGKSLoR&format=png&color=000000" alt="Tech Stack" width="20" style="vertical-align: bottom; margin-right: 5px;"/>
