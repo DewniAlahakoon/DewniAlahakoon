@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [medium.com/@dalahakoon97](medium.com/@dalahakoon97)
 
-- 💬 Ask me about **Selenium, Cucumber**
+- 💬 Ask me about **Selenium, TestNG, and Extent Reports**
 
 - 📫 How to reach me **dalahakoon97@gmail.com**
 
@@ -34,7 +34,7 @@
   </li>
   <li>
     <img src="https://img.icons8.com/?size=50&id=13118&format=png&color=000000" alt="Tech Stack" width="20" style="vertical-align: bottom; margin-right: 5px;"/>
-    <strong>Skills:</strong> Selenium, Cucumber, API Testing
+    <strong>Skills:</strong> Selenium, API Testing
   </li>
 </ul>
 
